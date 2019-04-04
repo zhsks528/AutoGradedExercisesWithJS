@@ -1,58 +1,134 @@
 # Auto-Graded-Exercises-With-JS
+
 Solve 165 problems with JavaScript
 
-
-
-- [x] isOldEnoughToDrink
-- [x] isOldEnoughToDrive
-
-- [x] isOldEnoughToVote
-- [x] isOldEnoughToDrinkAndDrive
-- [x] getProperty
-- [x] addProperty
-- [x] removeProperty
-- [x] checkAge
-- [x] getFullName
-- [x] getLengthOfWord
-- [x] getLengthOfTwoWords
-- [x] isGreaterThan10
-- [x] isLessThan30
-- [x] equalsTen
-- [x] isLessThan
-- [x] isGreaterThan
-- [x] isEqualTo
-- [x] isEven
-- [x] isOdd
-- [x] isSameLength
-- [x] areBothOdd
-- [x] isEitherEven
-- [x] isOddLength
-- [x] isEvenLength
-- [x] isEvenAndGreaterThanTen
-- [x] average
-- [x] computeAreaOfATriangle
-- [x] cube
-- [x] square
-
-- [ ] computeAverageLengthOfWords
-- [ ] addFullNameProperty
-- [ ] addObjectProperty
-- [ ] isPersonOldEnoughToDrinkAndDrive
-- [ ] isPersonOldEnoughToDrive
-- [ ] isPersonOldEnoughToVote
-- [ ] isPersonOldEnoughToDrink
-- [ ] addArrayProperty
-- [ ] getNthElement
-- [ ] getFirstElement
-- [ ] getLastElement
-- [ ] addToFront
-- [ ] addToBack
-- [ ] computeAreaOfARectangle
-- [ ] computePerimerterOfArectangle
-- [ ] computePerimeterOfATriangle
-- [ ] computeTripledAreaOfARectangle
-- [ ] computePerimeterOfACircle
-- [ ] computeAreaOfACircle
-- [ ] computePower
-- [ ] computeSquaerRoot
-- [ ] doubleSquareRootOf
+- [x] 1. isOldEnoughToDrink
+- [x] 2. isOldEnoughToDrive
+- [x] 3. isOldEnoughToVote
+- [x] 4. isOldEnoughToDrinkAndDrive
+- [x] 5. getProperty
+- [x] 6. addProperty
+- [x] 7. removeProperty
+- [x] 8. checkAge
+- [x] 9. getFullName
+- [x] 10. getLengthOfWord
+- [x] 11. getLengthOfTwoWords
+- [x] 12. isGreaterThan10
+- [x] 13. isLessThan30
+- [x] 14. equalsTen
+- [x] 15. isLessThan
+- [x] 16. isGreaterThan
+- [x] 17. isEqualTo
+- [x] 18. isEven
+- [x] 19. isOdd
+- [x] 20. isSameLength
+- [x] 21. areBothOdd
+- [x] 22. isEitherEven
+- [x] 23. isOddLength
+- [x] 24. isEvenLength
+- [x] 25. isEvenAndGreaterThanTen
+- [x] 26. average
+- [x] 27. computeAreaOfATriangle
+- [x] 28. cube
+- [x] 29. square
+- [x] 30. computeAverageLengthOfWords
+- [x] 31. addFullNameProperty
+- [x] 32. addObjectProperty
+- [x] 33. isPersonOldEnoughToDrinkAndDrive
+- [x] 34. isPersonOldEnoughToDrive
+- [x] 35. isPersonOldEnoughToVote
+- [x] 36. isPersonOldEnoughToDrink
+- [x] 37. addArrayProperty
+- [x] 38. getNthElement
+- [x] 39. getFirstElement
+- [x] 40. getLastElement
+- [x] 41. addToFront
+- [x] 42. addToBack
+- [x] 43. computeAreaOfARectangle
+- [x] 44. computePerimerterOfArectangle
+- [x] 45. computePerimeterOfATriangle
+- [x] 46. computeTripledAreaOfARectangle
+- [x] 47. computePerimeterOfACircle
+- [x] 48. computeAreaOfACircle
+- [x] 49. computePower
+- [x] 50. computeSquaerRoot
+- [x] 51. doubleSquareRootOf
+- [x] 52. getLengthOfThreeWords
+- [x] 53. joinArrays
+- [x] 54. getElementsAfter
+- [x] 55. joinArrays
+- [x] 56. getElementsAfter
+- [x] 57. getAllElementsButFirst
+- [x] 58. getAllElementsButLast
+- [x] 59. removeFromFront
+- [x] 60. removeFromBackOfNew
+- [x] 61. removeFromFrontOfNew
+- [x] 62. countCharacter
+- [x] 63. getAllLetters
+- [x] 64. getAllWords
+- [x] 65. removeFromBack
+- [x] 66. or
+- [x] 67. isEitherEvenOrAreBoth7
+- [x] 68. isEitherEvenAndLessThan9
+- [x] 69. extend
+- [x] 70. removeNumbersLargerThan
+- [x] 71. removeNumbersLessThan
+- [x] 72. removeStringValuesLongerThan
+- [x] 73. removeEvenValues
+- [x] 74. countNumverOfKeys
+- [x] 75. removeOddValues
+- [x] 76. removeArrayValues
+- [x] 77. removeNumberValues
+- [x] 78. removeStringValues
+- [x] 79. convertDoubleSpaceToSingle
+- [x] 80. joinThreeArrays
+- [x] 81. addToFrontOfNew
+- [x] 82. addToBackOfNew
+- [x] 83. getAllElementsButNth
+- [x] 84. areValidCredentials
+- [x] 85. getIndexOf
+- [x] 86. findMinLengthOfThreeWord
+- [x] 87. fintMaxLengthOfThreeWord
+- [x] 88. select
+- [x] 89. getElementsThatEqual10
+- [x] 90. getElementsLessThan10
+- [x] 91. countAllCharacters
+- [x] 92. getElementsGreaterThan
+- [x] 93. removeElement
+- [x] 94. getFirstElementOfProperty
+- [x] 95. getNthElementOfProperty
+- [x] 96. getLastElementOfProperty
+- [x] 97. keep
+- [x] 98. getOddLengthWordsAtPr
+- [x] 99. computeAverageOfNum
+- [x] 100. getAverageOfElementsAtProperty
+- [ ] 101. getEvenLengthWordsAtProperty
+- [ ] 102. filterOddLengthWords
+- [ ] 103. getSquaredElementsAtProperty
+- [ ] 104. getOddElementsAtProperty
+- [ ] 105. getEvenElementsAtProperty
+- [ ] 106. filterEvenLengthWords
+- [ ] 107. getLengthOfLongestElement
+- [ ] 108. getSmallestElementAtProperty
+- [ ] 109. getLargestElementAtProperty
+- [ ] 110. getAllButLastElementOfProperty
+- [ ] 111. getElementOfArrayProperty
+- [ ] 112. squareElements
+- [ ] 113. filterOddElements
+- [ ] 114. computeProductOfAllElements
+- [ ] 115. filterEvenElements
+- [ ] 116. getLengthOfShortestElement
+- [ ] 117. getLongestElement
+- [ ] 118. findSmallestElement
+- [ ] 119. findShortestElement
+- [ ] 120. getLargestElement
+- [ ] 121. computeSumOfAllElements
+- [ ] 122. calculateBillTotal
+- [ ] 123. getStringLengter
+- [ ] 124. joinArraysOfArrays
+- [ ] 125. getProductOfAllElementsAtProperty
+- [ ] 126. sumDigits
+- [ ] 127. getSumOfAllElementsAtProperty
+- [ ] 128. findShortestWordAmongMixedElements
+- [ ] 129. findSmallestnumberAmongMixedElements
+- [ ] 130. getLongestWordOfMixedElements
