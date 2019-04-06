@@ -2,6 +2,46 @@
 
 Solve 165 problems with JavaScript
 
+
+
+## How To...
+
+#### Annotation is a problem.
+
+// Write a function called "areBothOdd".
+
+// Given 2 numbers, "areBothOdd" returns whether or not both of the given numbers are odd.
+
+// var output = areBothOdd(1, 3);
+
+// console.log(output); // --> true
+
+
+
+#### The answer is no annotation.
+
+function areBothOdd(num1, num2) {
+
+  if (num1 % 2 !== 0 && num2 % 2 !== 0) {
+
+​    return true;
+
+  } else {
+
+​    return false;
+
+  }
+
+}
+
+var output = areBothOdd(1, 2);
+
+console.log(output);
+
+------
+
+
+
 - [x] 1. isOldEnoughToDrink
 - [x] 2. isOldEnoughToDrive
 - [x] 3. isOldEnoughToVote
@@ -153,15 +193,15 @@ Solve 165 problems with JavaScript
 - [x] 149. Array to Object [Part 3]
 - [x] 150. Object to Array [Part 3]
 - [x] 151. Greet Customers
-- [ ] 152. flipPairs
-- [ ] 153. flipEveryNChars
-- [ ] 154. detectOutlierValue
-- [ ] 155. findPairForSum
-- [ ] 156. isRotated
+- [x] 152. flipPairs
+- [x] 153. flipEveryNChars
+- [x] 154. detectOutlierValue
+- [x] 155. findPairForSum
+- [x] 156. isRotated
 - [ ] 157. search with Divide and Conquer
-- [ ] 158. averageIntegers
-- [ ] 159. isogram
-- [ ] 160. phoneNumber
+- [x] 158. averageIntegers
+- [x] 159. isogram
+- [x] 160. phoneNumber
 - [ ] 161. longestPalindrome
 - [ ] 162. Fashion Inventory A
 - [ ] 163. Fashion Inventory B
