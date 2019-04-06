@@ -51,84 +51,119 @@ Solve 165 problems with JavaScript
 - [x] 47. computePerimeterOfACircle
 - [x] 48. computeAreaOfACircle
 - [x] 49. computePower
-- [x] 50. computeSquaerRoot
+- [x] 50. computeSquareRoot
 - [x] 51. doubleSquareRootOf
 - [x] 52. getLengthOfThreeWords
 - [x] 53. joinArrays
 - [x] 54. getElementsAfter
-- [x] 55. joinArrays
-- [x] 56. getElementsAfter
-- [x] 57. getAllElementsButFirst
-- [x] 58. getAllElementsButLast
-- [x] 59. removeFromFront
-- [x] 60. removeFromBackOfNew
-- [x] 61. removeFromFrontOfNew
-- [x] 62. countCharacter
-- [x] 63. getAllLetters
-- [x] 64. getAllWords
-- [x] 65. removeFromBack
-- [x] 66. or
-- [x] 67. isEitherEvenOrAreBoth7
-- [x] 68. isEitherEvenAndLessThan9
-- [x] 69. extend
-- [x] 70. removeNumbersLargerThan
-- [x] 71. removeNumbersLessThan
-- [x] 72. removeStringValuesLongerThan
-- [x] 73. removeEvenValues
-- [x] 74. countNumverOfKeys
-- [x] 75. removeOddValues
-- [x] 76. removeArrayValues
-- [x] 77. removeNumberValues
-- [x] 78. removeStringValues
-- [x] 79. convertDoubleSpaceToSingle
-- [x] 80. joinThreeArrays
-- [x] 81. addToFrontOfNew
-- [x] 82. addToBackOfNew
-- [x] 83. getAllElementsButNth
-- [x] 84. areValidCredentials
-- [x] 85. getIndexOf
-- [x] 86. findMinLengthOfThreeWord
-- [x] 87. fintMaxLengthOfThreeWord
-- [x] 88. select
-- [x] 89. getElementsThatEqual10
-- [x] 90. getElementsLessThan10
-- [x] 91. countAllCharacters
-- [x] 92. getElementsGreaterThan
-- [x] 93. removeElement
-- [x] 94. getFirstElementOfProperty
-- [x] 95. getNthElementOfProperty
-- [x] 96. getLastElementOfProperty
-- [x] 97. keep
-- [x] 98. getOddLengthWordsAtPr
-- [x] 99. computeAverageOfNum
-- [x] 100. getAverageOfElementsAtProperty
-- [ ] 101. getEvenLengthWordsAtProperty
-- [ ] 102. filterOddLengthWords
-- [ ] 103. getSquaredElementsAtProperty
-- [ ] 104. getOddElementsAtProperty
-- [ ] 105. getEvenElementsAtProperty
-- [ ] 106. filterEvenLengthWords
-- [ ] 107. getLengthOfLongestElement
-- [ ] 108. getSmallestElementAtProperty
-- [ ] 109. getLargestElementAtProperty
-- [ ] 110. getAllButLastElementOfProperty
-- [ ] 111. getElementOfArrayProperty
-- [ ] 112. squareElements
-- [ ] 113. filterOddElements
-- [ ] 114. computeProductOfAllElements
-- [ ] 115. filterEvenElements
-- [ ] 116. getLengthOfShortestElement
-- [ ] 117. getLongestElement
-- [ ] 118. findSmallestElement
-- [ ] 119. findShortestElement
-- [ ] 120. getLargestElement
-- [ ] 121. computeSumOfAllElements
-- [ ] 122. calculateBillTotal
-- [ ] 123. getStringLengter
-- [ ] 124. joinArraysOfArrays
-- [ ] 125. getProductOfAllElementsAtProperty
-- [ ] 126. sumDigits
-- [ ] 127. getSumOfAllElementsAtProperty
-- [ ] 128. findShortestWordAmongMixedElements
-- [ ] 129. findSmallestnumberAmongMixedElements
-- [ ] 130. getLongestWordOfMixedElements
+- [x] 55. getElementsUpTo
+- [x] 56. getAllElementsButFirst
+- [x] 57. getAllElementsButLast
+- [x] 58. removeFromFront
+- [x] 59. removeFromBackOfNew
+- [x] 60. removeFromFrontOfNew
+- [x] 61. countCharacter
+- [x] 62. getAllLetters
+- [x] 63. getAllWords
+- [x] 64. removeFromBack
+- [x] 65. or
+- [x] 66. isEitherEvenOrAreBoth7
+- [x] 67. isEitherEvenAndLessThan9
+- [x] 68. extend
+- [x] 69. removeNumbersLargerThan
+- [x] 70. removeNumbersLessThan
+- [x] 71. removeStringValuesLongerThan
+- [x] 72. removeEvenValues
+- [x] 73. countNumberOfKeys
+- [x] 74. removeOddValues
+- [x] 75. removeArrayValues
+- [x] 76. removeNumberValues
+- [x] 77. removeStringValues
+- [x] 78. convertDoubleSpaceToSingle
+- [x] 79. joinThreeArrays
+- [x] 80. addToFrontOfNew
+- [x] 81. addToBackOfNew
+- [x] 82. getAllElementsButNth
+- [x] 83. areValidCredentials
+- [x] 84. getIndexOf
+- [x] 85. findMinLengthOfThreeWords
+- [x] 86. fintMaxLengthOfThreeWords
+- [x] 87. select
+- [x] 88. getElementsThatEqual10AtProperty
+- [x] 89. getElementsLessThan100AtProperty
+- [x] 90. countAllCharacters
+- [x] 91. getElementsGreaterThan10AtProperty
+- [x] 92. removeElement
+- [x] 93. getFirstElementOfProperty
+- [x] 94. getNthElementOfProperty
+- [x] 95. getLastElementOfProperty
+- [x] 96. keep
+- [x] 97. getOddLengthWordsAtProperty
+- [x] 98. computeAverageOfNumbers
+- [x] 99. getAverageOfElementsAtProperty
+- [x] 100. getEvenLengthWordsAtProperty
+- [x] 101. filterOddLengthWords
+- [x] 102. getSquaredElementsAtProperty
+- [x] 103. getOddElementsAtProperty
+- [x] 104. getEvenElementsAtProperty
+- [x] 105. filterEvenLengthWords
+- [x] 106. getLengthOfLongestElement
+- [x] 107. getSmallestElementAtProperty
+- [x] 108. getLargestElementAtProperty
+- [x] 109. getAllButLastElementOfProperty
+- [x] 110. getElementOfArrayProperty
+- [x] 111. squareElements
+- [x] 112. filterOddElements
+- [x] 113. computeProductOfAllElements
+- [x] 114. filterEvenElements
+- [x] 115. getLengthOfShortestElement
+- [x] 116. getLongestElement
+- [x] 117. findSmallestElement
+- [x] 118. findShortestElement
+- [x] 119. getLargestElement
+- [x] 120. computeSumOfAllElements
+- [x] 121. calculateBillTotal
+- [x] 122. getStringLength
+- [x] 123. joinArraysOfArrays
+- [x] 124. getProductOfAllElementsAtProperty
+- [x] 125. sumDigits
+- [x] 126. getSumOfAllElementsAtProperty
+- [x] 127. findShortestWordAmongMixedElements
+- [x] 128. findSmallestnumberAmongMixedElements
+- [x] 129. getLongestWordOfMixedElements
+- [x] 130. getLargestNumberAmongMixedElements
+- [x] 131. computeSummationToN
+- [x] 132. convertScoreToGrade
+- [x] 133. convertScoreToGradeWithPlus
+- [x] 134. computeFactorialOfN
+- [x] 135. repeatString
+- [x] 136. getLongestOfThreeWords
+- [x] 137. findShortestOfThreeWords
+- [x] 138. computeCompoundInterest
+- [x] 139. modulo
+- [x] 140. multiply
+- [x] 141. isOddWithoutModulo
+- [x] 142. isEvenWithoutModulo
+- [x] 143. multiplyBetween
+- [x] 144. computeSumBetween
+- [x] 145. Array to Object [Part 1]
+- [x] 146. Object to Array [Part 1]
+- [x] 147. Array to Object [Part 2]
+- [x] 148. Object to Array [Part 2]
+- [x] 149. Array to Object [Part 3]
+- [x] 150. Object to Array [Part 3]
+- [x] 151. Greet Customers
+- [ ] 152. flipPairs
+- [ ] 153. flipEveryNChars
+- [ ] 154. detectOutlierValue
+- [ ] 155. findPairForSum
+- [ ] 156. isRotated
+- [ ] 157. search with Divide and Conquer
+- [ ] 158. averageIntegers
+- [ ] 159. isogram
+- [ ] 160. phoneNumber
+- [ ] 161. longestPalindrome
+- [ ] 162. Fashion Inventory A
+- [ ] 163. Fashion Inventory B
+- [ ] 164. Fashion Inventory C
+- [ ] 165. Fashion Inventory D
