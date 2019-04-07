@@ -198,12 +198,12 @@ console.log(output);
 - [x] 154. detectOutlierValue
 - [x] 155. findPairForSum
 - [x] 156. isRotated
-- [ ] 157. search with Divide and Conquer
+- [x] 157. search with Divide and Conquer
 - [x] 158. averageIntegers
 - [x] 159. isogram
 - [x] 160. phoneNumber
-- [ ] 161. longestPalindrome
-- [ ] 162. Fashion Inventory A
-- [ ] 163. Fashion Inventory B
-- [ ] 164. Fashion Inventory C
-- [ ] 165. Fashion Inventory D
+- [x] 161. longestPalindrome
+- [x] 162. Fashion Inventory A
+- [x] 163. Fashion Inventory B
+- [x] 164. Fashion Inventory C
+- [x] 165. Fashion Inventory D
